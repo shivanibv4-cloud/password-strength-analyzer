@@ -1,0 +1,19 @@
+VULNERABILITY SCANNER REPORT
+============================
+Target: 127.0.0.1
+
+Port 21 is CLOSED
+Port 22 is CLOSED
+Port 23 is CLOSED
+Port 25 is CLOSED
+Port 53 is CLOSED
+Port 80 is CLOSED
+Port 110 is CLOSED
+Port 135 is OPEN
+Port 139 is CLOSED
+Port 443 is CLOSED
+Port 445 is OPEN
+Port 3306 is CLOSED
+Port 8080 is CLOSED
+
+Scan completed.
